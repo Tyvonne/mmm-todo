@@ -4,7 +4,8 @@ Module.register("mmm-todo", {
         title: "Mes Rappels",
         items: [
             "Acheter du pain",
-            "Penser au projet MagicMirror"
+            "Penser au projet MagicMirror",
+            "Coder un module",
         ]
     },
 
