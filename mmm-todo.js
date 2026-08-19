@@ -1,9 +1,9 @@
 Module.register("mmm-todo", {
     defaults: {
         items: [
-            "Acheter du pain",
-            "Sortir la poubelle",
-            "Penser au projet MagicMirror"
+            "Donner à manger à Oli",
+            "Sortir la poubelle jaune le lundi soir",
+            "Prendre rendez-vous chez le vétérinaire",
         ],
         updateInterval: 10000,
         fadeSpeed: 1000,
