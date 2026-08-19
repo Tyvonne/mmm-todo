@@ -1,4 +1,4 @@
-Module.register("MMM-TODO", {
+Module.register("mmm-todo", {
     defaults: {
         items: [
             "Acheter du pain",
