@@ -4,6 +4,7 @@ Module.register("mmm-todo", {
             "Donner à manger à Oli",
             "Sortir la poubelle jaune le lundi soir",
             "Prendre rendez-vous chez le vétérinaire",
+            "Appeler Robin"
         ],
         updateInterval: 10000,
         fadeSpeed: 1000,
