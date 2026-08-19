@@ -6,6 +6,7 @@ Module.register("mmm-todo", {
             "Acheter du pain",
             "Penser au projet MagicMirror",
             "Coder un module",
+            "Ajouter du dynamisme à la liste",
         ]
     },
 
